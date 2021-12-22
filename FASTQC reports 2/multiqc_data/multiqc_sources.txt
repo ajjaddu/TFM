@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR1751227_1	/media/sf_Compartida/Canceres usados en el estudio/Cancer de mama con nodulo centinela/FASTQC reports/SRR1751227_1_fastqc.zip
+FastQC	all_sections	SRR1751227_2	/media/sf_Compartida/Canceres usados en el estudio/Cancer de mama con nodulo centinela/FASTQC reports/SRR1751227_2_fastqc.zip
+FastQC	all_sections	SRR1751228_1	/media/sf_Compartida/Canceres usados en el estudio/Cancer de mama con nodulo centinela/FASTQC reports/SRR1751228_1_fastqc.zip
+FastQC	all_sections	SRR1751228_2	/media/sf_Compartida/Canceres usados en el estudio/Cancer de mama con nodulo centinela/FASTQC reports/SRR1751228_2_fastqc.zip
+FastQC	all_sections	SRR1751229_1	/media/sf_Compartida/Canceres usados en el estudio/Cancer de mama con nodulo centinela/FASTQC reports/SRR1751229_1_fastqc.zip
+FastQC	all_sections	SRR1751229_2	/media/sf_Compartida/Canceres usados en el estudio/Cancer de mama con nodulo centinela/FASTQC reports/SRR1751229_2_fastqc.zip
+FastQC	all_sections	SRR1751230_1	/media/sf_Compartida/Canceres usados en el estudio/Cancer de mama con nodulo centinela/FASTQC reports/SRR1751230_1_fastqc.zip
+FastQC	all_sections	SRR1751230_2	/media/sf_Compartida/Canceres usados en el estudio/Cancer de mama con nodulo centinela/FASTQC reports/SRR1751230_2_fastqc.zip
+FastQC	all_sections	SRR1751231_1	/media/sf_Compartida/Canceres usados en el estudio/Cancer de mama con nodulo centinela/FASTQC reports/SRR1751231_1_fastqc.zip
+FastQC	all_sections	SRR1751231_2	/media/sf_Compartida/Canceres usados en el estudio/Cancer de mama con nodulo centinela/FASTQC reports/SRR1751231_2_fastqc.zip
+FastQC	all_sections	SRR1751232_1	/media/sf_Compartida/Canceres usados en el estudio/Cancer de mama con nodulo centinela/FASTQC reports/SRR1751232_1_fastqc.zip
+FastQC	all_sections	SRR1751232_2	/media/sf_Compartida/Canceres usados en el estudio/Cancer de mama con nodulo centinela/FASTQC reports/SRR1751232_2_fastqc.zip
